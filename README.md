@@ -1,4 +1,4 @@
-# Vastu Waterproofings LLP — Official Website
+# Vastu Waterproofings LLP - Official Website
 
 Engineered waterproofing for terraces, basements & industrial structures since 2004. Thane / Mumbai. Sika-certified applicator.
 
