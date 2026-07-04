@@ -2,7 +2,7 @@
 
 Engineered waterproofing for terraces, basements & industrial structures since 2004. Thane / Mumbai. Sika-certified applicator.
 
-![Vastu Waterproofings website](screenshots/readme-hero.png)
+![Vastu Waterproofings website](readme-hero.png)
 
 🔗 **Live site:** [www.vastuwaterproofingsllp.com](https://www.vastuwaterproofingsllp.com)
 
